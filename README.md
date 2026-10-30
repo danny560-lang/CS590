@@ -1,7 +1,7 @@
 # CS 590 – Database Design & Development
 
-
 Course: CS-590-10568-M01, SNHU
+
 Coursework from SNHU's graduate CS 590 course. It covers relational, document and graph databases.
 
 | Folder | What it is |
