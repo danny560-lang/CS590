@@ -1,0 +1,4 @@
+database.conf
+*.conf
+.ipynb_checkpoints/
+__pycache__/
